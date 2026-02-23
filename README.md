@@ -14,18 +14,18 @@ cc -Wall -Wextra -Werror
 ## Projects Overview
 
 | Project   | Description                                                                 | Grade |
-|:--------- |:--------------------------------------------------------------------------:|------:|
-| Shell 00  | Basic shell commands, file manipulation, permissions, redirections         |    🟩100   |
-| Shell 01  | More advanced shell scripting, including pipes and redirections             |     🟩55   |
-| C00       | Basic syntax, loops, conditions, and variables                               |     🟩85   |
-| C01       | Memory, pointers, arrays                                                     |     🟩100   |
-| C02       | String manipulation, manual implementation of libc-like functions           |     🟩75   |
-| C03       | Reimplementation of standard string functions (strcat, strlcat, strcmp, strstr, etc.) |    🟩100   |
-| C04       | Conversion functions (atoi, putnbr, putnbr_base, etc.)                       |     🟩85   |
-| C05       | Recursion, math functions (factorial, power, primes)                         |     🟩80   |
-| C06       | Command-line arguments (argc / argv)                                         |     🟩85   |
-| C07       | Dynamic memory allocation using malloc                                       |     🟩60   |
-| Rush00    | Group project — ASCII drawing using loops and conditions                     |    🟩100   |
+|:--------- |:--------------------------------------------------------------------------:|:-----:|
+| Shell 00  | Basic shell commands, file manipulation, permissions, redirections         | 🟩 100 |
+| Shell 01  | More advanced shell scripting, including pipes and redirections             | 🟩 55  |
+| C00       | Basic syntax, loops, conditions, and variables                               | 🟩 85  |
+| C01       | Memory, pointers, arrays                                                     | 🟩 100 |
+| C02       | String manipulation, manual implementation of libc-like functions           | 🟩 75  |
+| C03       | Reimplementation of standard string functions (strcat, strlcat, strcmp, strstr, etc.) | 🟩 100 |
+| C04       | Conversion functions (atoi, putnbr, putnbr_base, etc.)                       | 🟩 85  |
+| C05       | Recursion, math functions (factorial, power, primes)                         | 🟩 80  |
+| C06       | Command-line arguments (argc / argv)                                         | 🟩 85  |
+| C07       | Dynamic memory allocation using malloc                                       | 🟩 60  |
+| Rush00    | Group project — ASCII drawing using loops and conditions                     | 🟩 100 |
 
 ---
 
